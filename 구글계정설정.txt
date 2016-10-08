@@ -1,0 +1,29 @@
+구글계정에 결제 정보 연결
+wallet.google.com
+
+
+개발자 계정으로 등록(20$)
+https://play.google.com/apps/publish
+
+
+
+sql - 필터처럼 문법
+
+
+ormDB - 
+
+rdb - 시트를 넘나드는
+Realm DB
+
+
+쿼리   -    
+
+
+<> 
+
+Realm
+
+
+
+
+https://workflowy.com/
